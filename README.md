@@ -1,2 +1,2 @@
 # FA-armbian-deb
-Re-built Flightaware deb packages for arm64 (OdroidC2)
+Re-compiled Flightaware deb packages for Arm64 (in an Odroid-C2) 
